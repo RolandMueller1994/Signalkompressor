@@ -1,0 +1,30 @@
+Circuit: * C:\Users\Andre\Documents\GitHub\Signalkompressor\concept\Steilheitsmultiplizierer\steilheitsmultiplizierer.asc
+
+WARNING: Node NC_01 is floating.
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+WARNING: Less than two connections to node NC_02.  This node is used by C2.
+Direct Newton iteration for .op point succeeded.
+.step vo=1.7
+.step vo=2.7
+.step vo=3.7
+
+Date: Wed Jun 07 22:28:18 2017
+Total elapsed time: 0.780 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2088
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 50
+fillins = 40
+solver = Normal
+Matrix Compiler1: 5.83 KB object code size  4.5/2.4/[1.8]
+Matrix Compiler2: 5.06 KB object code size  1.9/2.6/[1.4]
+
+

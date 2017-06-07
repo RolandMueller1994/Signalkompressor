@@ -1,0 +1,12 @@
+Low and Ultra-Low Noise Audio Amplifier
+http://www.linear.com/product/LT1677
+http://cds.linear.com/docs/en/datasheet/1677fa.pdf
+http://cds.linear.com/docs/en/datasheet/16789fs.pdf
+http://www.linear.com/product/LT1115
+http://cds.linear.com/docs/en/datasheet/lt1115fa.pdf
+
+Low Noise Signal Processing Amplifier
+http://www.linear.com/product/LT6200
+http://cds.linear.com/docs/en/datasheet/62001ff.pdf
+
+
