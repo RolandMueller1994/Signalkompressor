@@ -1,0 +1,21 @@
+Results of Testing OpAmp LT6232 
+Supply: Pos 9V / Neg GND (0V)
+Open Loop Gain Testing: Operating-Point-Offset 4.5 V,  1 Hz to 10 GHz Simulated, Load Resistance 47K
+									Gain			Phase
+Open Loop Gain @ 1 Hz:				93.882535dB		-14.697349m°
+Open Loop Gain @ 3.89 kHz (-3dB):	90.882303dB		-44.949882°
+Open Loop Gain @ 89.797 MHz (0dB):	0dB				-120.78831°	 Phase Margin -> ~60° 
+
+Input Resistance @ 1Hz:				7.4971884K		0
+Input Resistance @ 10kHz:			7.4971138K		-253.75729m°
+Input Resistance @ 100kHz:			7.4901289K		-2.4680113°
+Input Resistance @ 1 MHz:			6.8767432K		-23.287634°
+
+Output Resistance @ 1Hz:			19.100685		0
+Output Resistance @ 10kHz:			19.100685		0
+Output Resistance @ 100kHz:			19.100685		-1.443801m°
+Output Resistance @ 1 MHz:			19.100684		-14.389923m°
+
+Offset Pos 9V / Neg 9 V : 9.1407171mV	Gain: 	9447.83
+Offset Pos 9V / Neg 0 V : 976.502nV 	Gain: 	4.26488e+006	@ DC-Operating-Point-Offset 4.5 V
+

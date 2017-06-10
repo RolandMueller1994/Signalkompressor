@@ -1,0 +1,37 @@
+Testing Loop Gain of LT6232 (Quad) as Differential amplifier
+Supply: Pos 9V / Neg GND (0V)
+Loop Gain Testing: Operating-Point-Offset 4.5 V,  1 Hz to 10 GHz Simulated, Load Resistance 47K
+Parameter for Gain R1 = R3, R2 = R4 -> Vout = R2/R1*(Vin_pos - Vin_neg) 
+K1 = 1 (R2 = R1), K2 = 10 (R2 = 10*R1)
+
+###################################### K1 = 1 ##########################################################
+									Gain			Phase
+Loop Gain @ 1 Hz:					
+Loop Gain @ 1.29 MHz (-3dB):		
+Loop Gain @ 5.09 MHz (180°):		
+
+Input Resistance @ 1Hz:				
+Input Resistance @ 10kHz:			
+Input Resistance @ 100kHz:			
+Input Resistance @ 1 MHz:			
+
+Output Resistance @ 1Hz:			
+Output Resistance @ 10kHz:			
+Output Resistance @ 100kHz:			
+Output Resistance @ 1 MHz:			
+
+####################################### K2 = 10 ###########################################################
+									Gain			Phase
+Loop Gain @ 1 Hz:					
+Loop Gain @ 3.89 kHz (-3dB):		
+Loop Gain @ 89.797 MHz (0dB):		
+
+Input Resistance @ 1Hz:				
+Input Resistance @ 10kHz:			
+Input Resistance @ 100kHz:			
+Input Resistance @ 1 MHz:			
+
+Output Resistance @ 1Hz:			
+Output Resistance @ 10kHz:			
+Output Resistance @ 100kHz:			
+Output Resistance @ 1 MHz:			
