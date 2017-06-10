@@ -1,0 +1,32 @@
+* LM3046
+****************************************************************************
+* (C) Copyright 2013 Texas Instruments Incorporated. All rights reserved.                                            
+*****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.                                             
+** TI and its licensors and suppliers make no warranties, either expressed                                           
+** or implied, with respect to this model, including the warranties of                                                    
+** merchantability or fitness for a particular purpose. The model is                                                      
+** provided solely on an "as is" basis. The entire risk as to its quality                                                    
+** and performance is with the customer                                                                                          
+*****************************************************************************
+*
+* Released by: WEBENCH(R) Design Center, Texas Instruments Inc.
+* Part: LM3046
+* Date: APR 19 2013
+* Model Type: AIO
+* Simulator: PSPICE 
+* Simulator Version:
+* EVM Order Number:
+* EVM Users Guide:
+* Datasheet: SNLS372B –JULY 1999–REVISED MARCH 2013
+* Model Version: Final 1.00
+********************************************************************
+*$
+.MODEL LM3046 NPN
++ (IS=10.000E-15 XTI=3 EG=1.11 VAF=100 BF=150.96
++ ISE=113.01e-15 NE=1.5 IKF=46.010E-3 ISE=114.3e-15 XTB=0
++ BR=.1 ISC=10.000e-15 VAR=100 IKR=10.000E-3 NK=.53098
++ RC=10 RB=0 RE=0 CJE=1.0000E-12 CJC=1.0000E-12 MJC=.33
++ VJC=.75 FC=.5 MJE=.34 VJE=.75 TF=259.18E-12 
++ XTF=310 VTF=15.773 PTF=0 ITF=1.75 TR=10.000E-9)
+*$

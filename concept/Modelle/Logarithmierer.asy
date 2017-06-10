@@ -1,0 +1,23 @@
+Version 4
+SymbolType CELL
+RECTANGLE Normal -80 -80 208 128
+TEXT 7 24 Left 2 Logarithm
+WINDOW 0 146 -80 Bottom 2
+PIN 64 -80 TOP 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 1
+PIN 64 128 BOTTOM 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 2
+PIN -80 -16 LEFT 8
+PINATTR PinName Vina
+PINATTR SpiceOrder 3
+PIN -80 64 LEFT 8
+PINATTR PinName Vinb
+PINATTR SpiceOrder 4
+PIN 208 16 RIGHT 8
+PINATTR PinName Vouta
+PINATTR SpiceOrder 5
+PIN 208 64 RIGHT 8
+PINATTR PinName Voutb
+PINATTR SpiceOrder 6
