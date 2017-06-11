@@ -1,0 +1,20 @@
+Version 4
+SymbolType CELL
+LINE Normal -16 17 -16 -17
+LINE Normal 16 0 -16 17
+LINE Normal -16 -17 16 0
+LINE Normal 16 16 16 -17
+RECTANGLE Normal -127 -80 128 80
+WINDOW 0 128 -82 Bottom 2
+PIN 0 -80 TOP 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 1
+PIN 0 80 BOTTOM 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 2
+PIN -128 0 LEFT 8
+PINATTR PinName Vin
+PINATTR SpiceOrder 3
+PIN 128 0 RIGHT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 4
