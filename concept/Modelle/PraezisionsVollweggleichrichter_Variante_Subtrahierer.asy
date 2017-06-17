@@ -1,21 +1,21 @@
 Version 4
 SymbolType CELL
-LINE Normal -16 17 -16 -17
-LINE Normal 16 0 -16 17
-LINE Normal -16 -17 16 0
-LINE Normal 16 16 16 -17
-RECTANGLE Normal -127 -80 128 80
-TEXT -48 28 Left 2 OneWay
-WINDOW 0 128 -82 Bottom 2
+LINE Normal -31 18 -31 -18
+LINE Normal 0 0 -31 18
+LINE Normal -31 -18 0 0
+LINE Normal 0 16 0 -17
+RECTANGLE Normal -96 -80 97 80
+TEXT -44 33 Left 2 TwoWay
+WINDOW 0 96 -80 Bottom 2
 PIN 0 -80 TOP 8
 PINATTR PinName Vcc
 PINATTR SpiceOrder 1
 PIN 0 80 BOTTOM 8
 PINATTR PinName Vee
 PINATTR SpiceOrder 2
-PIN -128 0 LEFT 8
+PIN -96 0 LEFT 8
 PINATTR PinName Vin
 PINATTR SpiceOrder 3
-PIN 128 0 RIGHT 8
+PIN 96 0 RIGHT 8
 PINATTR PinName Vout
 PINATTR SpiceOrder 4

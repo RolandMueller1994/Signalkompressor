@@ -12,7 +12,7 @@ ARC Normal 6 -8 23 5 23 -2 4 0
 ARC Normal 40 4 23 -9 23 -2 42 -4
 ARC Normal 6 6 23 19 23 12 4 14
 ARC Normal 40 18 23 5 23 12 42 10
-TEXT -72 48 Left 2 OneWay
+TEXT -67 47 Left 2 TwoWay
 WINDOW 0 128 -96 Bottom 2
 PIN 0 -96 TOP 8
 PINATTR PinName Vcc
